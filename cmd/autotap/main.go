@@ -7,11 +7,13 @@ import (
 	"os"
 	"strings"
 
-	"github.com/velour/untappd"
+	quaff "github.com/chrissexton/quaff"
 )
 
 var token = flag.String("token", "", "Untappd token")
 var users = flag.String("users", "", "Comma separated users to tap")
+var useFeed = flag.Bool("useFeed", false, "Use user feed to find things")
+var whoami = flag.String("whoami", "", "Username of toaster")
 
 func main() {
 	flag.Parse()
@@ -23,27 +25,40 @@ func main() {
 		fmt.Println("Error: The -users flag is required.")
 		os.Exit(2)
 	}
+	if *whoami == "" {
+		fmt.Println("Error: The -whoami flag is required.")
+		os.Exit(2)
+	}
 
 	userMap := map[string]bool{}
 	for _, u := range strings.Split(*users, ",") {
 		userMap[strings.ToLower(strings.TrimSpace(u))] = true
 	}
 
-	u := untappd.New(*token)
-	feed, err := u.PullFeed()
-	if err != nil {
-		log.Fatal(err)
-	}
-	for _, checkin := range feed {
-		log.Printf("Checkin by %s", checkin.User.UserName)
-		uname := checkin.User.UserName
-		if userMap[uname] {
+	u := quaff.New(*token)
+
+	for name, _ := range userMap {
+		checkins, err := u.PullUserCheckins(name)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		for _, checkin := range checkins {
+			log.Printf("Checkin by %s", checkin.User.UserName)
 			log.Println(checkin.CheckinID)
-			toast, err := u.Toast(checkin.CheckinID)
-			if err != nil {
-				log.Fatal(err)
+
+			found := false
+			for _, toast := range checkin.Toasts.Items {
+				found = found || toast.User.UserName == *whoami
 			}
-			log.Println(toast)
+
+			if !found {
+				_, err := u.Toast(checkin.CheckinID)
+				if err != nil {
+					log.Fatal(err)
+				}
+				log.Printf("Toasted %d", checkin.CheckinID)
+			}
 		}
 	}
 }

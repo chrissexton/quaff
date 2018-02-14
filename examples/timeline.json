@@ -1,0 +1,3228 @@
+{
+   "notifications" : {
+      "type" : "notifications",
+      "unread_count" : {
+         "messages" : 0,
+         "veunes" : 106,
+         "comments" : 0,
+         "toasts" : 1,
+         "news" : 0,
+         "venues" : 106,
+         "others" : 0,
+         "friends" : 0
+      }
+   },
+   "response" : {
+      "checkins" : {
+         "items" : [
+            {
+               "beer" : {
+                  "beer_active" : 1,
+                  "bid" : 6929,
+                  "has_had" : false,
+                  "beer_style" : "IPA - American",
+                  "beer_slug" : "wormtown-brewery-be-hoppy",
+                  "beer_name" : "Be Hoppy",
+                  "auth_rating" : 0,
+                  "beer_abv" : 6.5,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-6929_cc529_sm.jpeg",
+                  "wish_list" : false
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "badge_description" : "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 140 checkins with the serving style of Draft. Try 5 more for Level 29!",
+                        "badge_name" : "Draft City (Level 28)",
+                        "badge_id" : 133281,
+                        "created_at" : "Sun, 11 Feb 2018 04:55:32 +0000",
+                        "badge_image" : {
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg"
+                        },
+                        "user_badge_id" : 304082381
+                     }
+                  ]
+               },
+               "toasts" : {
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "comments" : {
+                  "count" : 0,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 4,
+               "checkin_comment" : "",
+               "created_at" : "Sun, 11 Feb 2018 04:55:31 +0000",
+               "brewery" : {
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lng" : -71.7914,
+                     "lat" : 42.2635,
+                     "brewery_city" : "Worcester"
+                  },
+                  "brewery_name" : "Wormtown Brewery",
+                  "country_name" : "United States",
+                  "brewery_id" : 2302,
+                  "contact" : {
+                     "url" : "http://wormtownbrewery.com",
+                     "twitter" : "WormtownBrewery",
+                     "instagram" : "WormtownBrewery",
+                     "facebook" : "https://www.facebook.com/wormtownbrewery"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-2302_17efc.jpeg",
+                  "brewery_slug" : "wormtown-brewery"
+               },
+               "user" : {
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "last_name" : "",
+                  "url" : "",
+                  "location" : "NE US",
+                  "user_name" : "msherman",
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "uid" : 1158276,
+                  "contact" : []
+               },
+               "checkin_id" : 560941346,
+               "venue" : {
+                  "venue_id" : 9631,
+                  "venue_slug" : "smokey-bones-bar-fire-grill",
+                  "is_verified" : false,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/6wOVQ8",
+                     "foursquare_id" : "4ab56a8af964a5207e7420e3"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06374d81259",
+                  "primary_category" : "Food",
+                  "venue_icon" : {
+                     "sm" : "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_bg_64.png",
+                     "lg" : "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_bg_88.png",
+                     "md" : "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_bg_88.png"
+                  },
+                  "contact" : {
+                     "twitter" : "@smokeybonesbar",
+                     "venue_url" : "http://www.smokeybones.com"
+                  },
+                  "categories" : {
+                     "count" : 2,
+                     "items" : [
+                        {
+                           "category_id" : "4bf58dd8d48988d1df931735",
+                           "category_name" : "BBQ Joint",
+                           "is_primary" : true
+                        },
+                        {
+                           "category_name" : "American Restaurant",
+                           "is_primary" : false,
+                           "category_id" : "4bf58dd8d48988d14e941735"
+                        }
+                     ]
+                  },
+                  "location" : {
+                     "venue_city" : "Tyngsboro",
+                     "venue_state" : "MA",
+                     "venue_country" : "United States",
+                     "lng" : -71.4384,
+                     "venue_address" : "431 Middlesex Rd",
+                     "lat" : 42.6972
+                  },
+                  "venue_name" : "Smokey Bones Bar & Fire Grill"
+               },
+               "media" : {
+                  "items" : [],
+                  "count" : 0
+               }
+            },
+            {
+               "user" : {
+                  "last_name" : "",
+                  "url" : "",
+                  "location" : "NE US",
+                  "user_name" : "msherman",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "contact" : [],
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "uid" : 1158276
+               },
+               "created_at" : "Sun, 11 Feb 2018 04:55:08 +0000",
+               "checkin_comment" : "",
+               "brewery" : {
+                  "contact" : {
+                     "twitter" : "GreatNorthAle",
+                     "url" : "http://www.greatnorthaleworks.com/",
+                     "instagram" : "greatnorthale",
+                     "facebook" : "https://www.facebook.com/greatnorthaleworks"
+                  },
+                  "brewery_id" : 220279,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-220279_69a7c.jpeg",
+                  "country_name" : "United States",
+                  "brewery_slug" : "great-north-aleworks",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_city" : "Manchester",
+                     "lat" : 42.9778,
+                     "lng" : -71.4018,
+                     "brewery_state" : "NH"
+                  },
+                  "brewery_name" : "Great North Aleworks"
+               },
+               "venue" : {
+                  "contact" : {
+                     "twitter" : "@sakuranashua",
+                     "venue_url" : ""
+                  },
+                  "venue_icon" : {
+                     "lg" : "https://ss3.4sqi.net/img/categories_v2/food/sushi_bg_88.png",
+                     "sm" : "https://ss3.4sqi.net/img/categories_v2/food/sushi_bg_64.png",
+                     "md" : "https://ss3.4sqi.net/img/categories_v2/food/sushi_bg_88.png"
+                  },
+                  "foursquare" : {
+                     "foursquare_id" : "5a458ea1535d6f23fcb0c6af",
+                     "foursquare_url" : "http://4sq.com/2C6Xhko"
+                  },
+                  "is_verified" : false,
+                  "primary_category" : "Food",
+                  "parent_category_id" : "4d4b7105d754a06374d81259",
+                  "venue_id" : 7239404,
+                  "venue_slug" : "sakura-asian-bistro",
+                  "venue_name" : "Sakura Asian Bistro",
+                  "location" : {
+                     "venue_address" : "166 Daniel Webster Hwy",
+                     "lng" : -71.4416,
+                     "lat" : 42.7197,
+                     "venue_country" : "United States",
+                     "venue_state" : "NH",
+                     "venue_city" : "Nashua"
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_id" : "4bf58dd8d48988d1d2941735",
+                           "is_primary" : true,
+                           "category_name" : "Sushi Restaurant"
+                        }
+                     ],
+                     "count" : 1
+                  }
+               },
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "checkin_id" : 560941204,
+               "beer" : {
+                  "beer_style" : "Pale Ale - American",
+                  "beer_slug" : "great-north-aleworks-tie-dyed",
+                  "beer_active" : 1,
+                  "bid" : 1496887,
+                  "has_had" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1496887_c1ba6_sm.jpeg",
+                  "wish_list" : false,
+                  "beer_name" : "Tie Dyed",
+                  "auth_rating" : 0,
+                  "beer_abv" : 5.4
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 3.75,
+               "badges" : {
+                  "items" : [],
+                  "count" : 0,
+                  "retro_status" : false
+               },
+               "comments" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : []
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "auth_toast" : false,
+                  "items" : []
+               }
+            },
+            {
+               "user" : {
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "user_name" : "msherman",
+                  "last_name" : "",
+                  "url" : "",
+                  "location" : "NE US",
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "uid" : 1158276,
+                  "contact" : []
+               },
+               "checkin_comment" : "Yummm. Finally had this",
+               "brewery" : {
+                  "location" : {
+                     "brewery_city" : "Portsmouth",
+                     "brewery_state" : "NH",
+                     "lng" : -70.7626,
+                     "lat" : 43.0718
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "Great Rhythm Brewing Company",
+                  "country_name" : "United States",
+                  "contact" : {
+                     "twitter" : "greatrhythmbrew",
+                     "url" : "http://www.greatrhythmbrewing.com",
+                     "instagram" : "greatrhythmbrewing",
+                     "facebook" : "https://www.facebook.com/greatrhythmbrewing"
+                  },
+                  "brewery_id" : 41591,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-41591_02da9.jpeg",
+                  "brewery_slug" : "great-rhythm-brewing-company"
+               },
+               "created_at" : "Sat, 10 Feb 2018 21:40:00 +0000",
+               "venue" : [],
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "checkin_id" : 560602416,
+               "beer" : {
+                  "beer_abv" : 8,
+                  "auth_rating" : 0,
+                  "beer_name" : "Double Squeeze",
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2242693_73c1f_sm.jpeg",
+                  "has_had" : false,
+                  "bid" : 2242693,
+                  "beer_active" : 1,
+                  "beer_slug" : "great-rhythm-brewing-company-double-squeeze",
+                  "beer_style" : "IPA - Imperial / Double"
+               },
+               "rating_score" : 4.25,
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 2,
+                  "items" : [
+                     {
+                        "badge_image" : {
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg"
+                        },
+                        "user_badge_id" : 303775373,
+                        "created_at" : "Sat, 10 Feb 2018 21:40:00 +0000",
+                        "badge_name" : "Middle of the Road (Level 64)",
+                        "badge_id" : 65599,
+                        "badge_description" : "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 320 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 65!"
+                     },
+                     {
+                        "badge_description" : "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 140 checkins with the serving style of Can. Try 5 more for Level 29!",
+                        "badge_name" : "For the Can (Level 28)",
+                        "badge_id" : 133381,
+                        "created_at" : "Sat, 10 Feb 2018 21:40:00 +0000",
+                        "badge_image" : {
+                           "md" : "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                        },
+                        "user_badge_id" : 303775376
+                     }
+                  ]
+               },
+               "toasts" : {
+                  "count" : 2,
+                  "auth_toast" : false,
+                  "items" : [
+                     {
+                        "like_owner" : false,
+                        "like_id" : 476502707,
+                        "user" : {
+                           "user_name" : "mateo_",
+                           "location" : "",
+                           "last_name" : "",
+                           "bio" : "",
+                           "user_avatar" : "https://gravatar.com/avatar/3cc1df6883bb62a4d19de99aae9647d6?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                           "venue_details" : [],
+                           "account_type" : "user",
+                           "uid" : 3160178,
+                           "first_name" : "Matt",
+                           "brewery_details" : []
+                        },
+                        "created_at" : "Sun, 11 Feb 2018 03:27:25 +0000",
+                        "uid" : 3160178
+                     },
+                     {
+                        "user" : {
+                           "user_avatar" : "https://untappd.akamaized.net/profile/5c990f2cb65b86f6121a3f8ed0cf8ee5_100x100.jpg",
+                           "bio" : "",
+                           "location" : "NH",
+                           "last_name" : "",
+                           "user_name" : "link5141",
+                           "uid" : 2383210,
+                           "account_type" : "user",
+                           "first_name" : "jd",
+                           "brewery_details" : [],
+                           "venue_details" : []
+                        },
+                        "like_id" : 476396740,
+                        "created_at" : "Sun, 11 Feb 2018 00:45:20 +0000",
+                        "uid" : 2383210,
+                        "like_owner" : false
+                     }
+                  ],
+                  "total_count" : 2
+               },
+               "comments" : {
+                  "count" : 0,
+                  "items" : [],
+                  "total_count" : 0
+               }
+            },
+            {
+               "media" : {
+                  "items" : [],
+                  "count" : 0
+               },
+               "venue" : {
+                  "venue_id" : 3943915,
+                  "venue_slug" : "thirsty-moose-tap-house-manchester",
+                  "is_verified" : true,
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "foursquare" : {
+                     "foursquare_id" : "56589d75498ea8fe55e4845a",
+                     "foursquare_url" : "http://4sq.com/1SnSyIJ"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_88.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_88.png"
+                  },
+                  "contact" : {
+                     "twitter" : "",
+                     "venue_url" : "http://thirstymoosetaphouse.com/portsmouth/"
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_name" : "Pub",
+                           "is_primary" : true,
+                           "category_id" : "4bf58dd8d48988d11b941735"
+                        },
+                        {
+                           "is_primary" : false,
+                           "category_name" : "Sports Bar",
+                           "category_id" : "4bf58dd8d48988d11d941735"
+                        }
+                     ],
+                     "count" : 2
+                  },
+                  "location" : {
+                     "venue_state" : "NH",
+                     "venue_city" : "Manchester",
+                     "lng" : -71.4629,
+                     "lat" : 42.9894,
+                     "venue_address" : "795 Elm St",
+                     "venue_country" : "United States"
+                  },
+                  "venue_name" : "Thirsty Moose Tap House - Manchester"
+               },
+               "checkin_id" : 560467537,
+               "user" : {
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "contact" : [],
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : "",
+                  "user_name" : "msherman"
+               },
+               "checkin_comment" : "",
+               "brewery" : {
+                  "brewery_name" : "Henniker Brewing Company",
+                  "location" : {
+                     "lat" : 43.181,
+                     "lng" : -71.7834,
+                     "brewery_state" : "NH",
+                     "brewery_city" : "Henniker"
+                  },
+                  "brewery_active" : 1,
+                  "brewery_slug" : "henniker-brewing-company",
+                  "contact" : {
+                     "facebook" : "https://www.facebook.com/pages/hennikerbrewing/",
+                     "instagram" : "hennikerbrewingco",
+                     "url" : "http://hennikerbrewing.com/",
+                     "twitter" : "hennikerbrewing"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-51762_d3f91.jpeg",
+                  "brewery_id" : 51762,
+                  "country_name" : "United States"
+               },
+               "created_at" : "Sat, 10 Feb 2018 19:21:58 +0000",
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "rating_score" : 3.75,
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "toasts" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "auth_toast" : false,
+                  "count" : 0
+               },
+               "badges" : {
+                  "items" : [],
+                  "count" : 0,
+                  "retro_status" : false
+               },
+               "beer" : {
+                  "bid" : 459263,
+                  "has_had" : false,
+                  "beer_active" : 1,
+                  "beer_slug" : "henniker-brewing-company-working-man-s-porter",
+                  "beer_style" : "Porter - English",
+                  "auth_rating" : 0,
+                  "beer_abv" : 5.2,
+                  "beer_name" : "Working Man's Porter",
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-459263_11db9_sm.jpeg",
+                  "wish_list" : false
+               }
+            },
+            {
+               "user" : {
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276,
+                  "contact" : [],
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "user_name" : "msherman",
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : ""
+               },
+               "brewery" : {
+                  "country_name" : "United States",
+                  "contact" : {
+                     "twitter" : "PipeDreamBrewin",
+                     "url" : "http://pipedreambrewingnh.com",
+                     "instagram" : "pipedreambrewing",
+                     "facebook" : "https://www.facebook.com/pipedreambrewing/"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-259785_e25fa.jpeg",
+                  "brewery_id" : 259785,
+                  "brewery_slug" : "pipe-dream-brewing",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "lng" : -71.4207,
+                     "lat" : 42.9083,
+                     "brewery_state" : "NH",
+                     "brewery_city" : "Londonderry"
+                  },
+                  "brewery_name" : "Pipe Dream Brewing"
+               },
+               "created_at" : "Sat, 10 Feb 2018 18:48:46 +0000",
+               "checkin_comment" : "Fruity/tropical. Nice beer",
+               "media" : {
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "photo" : {
+                           "photo_img_og" : "https://untappd.akamaized.net/photos/2018_02_10/77bcc8af1a11f3af3aa236e04f843f2d_raw.jpeg",
+                           "photo_img_sm" : "https://untappd.akamaized.net/photos/2018_02_10/77bcc8af1a11f3af3aa236e04f843f2d_100x100.jpeg",
+                           "photo_img_lg" : "https://untappd.akamaized.net/photos/2018_02_10/77bcc8af1a11f3af3aa236e04f843f2d_640x640.jpeg",
+                           "photo_img_md" : "https://untappd.akamaized.net/photos/2018_02_10/77bcc8af1a11f3af3aa236e04f843f2d_320x320.jpeg"
+                        },
+                        "photo_id" : 159140946
+                     }
+                  ]
+               },
+               "venue" : {
+                  "contact" : {
+                     "twitter" : "",
+                     "venue_url" : "http://thirstymoosetaphouse.com/portsmouth/"
+                  },
+                  "venue_id" : 3943915,
+                  "venue_slug" : "thirsty-moose-tap-house-manchester",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/1SnSyIJ",
+                     "foursquare_id" : "56589d75498ea8fe55e4845a"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_88.png"
+                  },
+                  "location" : {
+                     "venue_state" : "NH",
+                     "venue_city" : "Manchester",
+                     "lng" : -71.4629,
+                     "venue_address" : "795 Elm St",
+                     "lat" : 42.9894,
+                     "venue_country" : "United States"
+                  },
+                  "venue_name" : "Thirsty Moose Tap House - Manchester",
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_id" : "4bf58dd8d48988d11b941735",
+                           "is_primary" : true,
+                           "category_name" : "Pub"
+                        },
+                        {
+                           "is_primary" : false,
+                           "category_name" : "Sports Bar",
+                           "category_id" : "4bf58dd8d48988d11d941735"
+                        }
+                     ],
+                     "count" : 2
+                  }
+               },
+               "checkin_id" : 560439207,
+               "beer" : {
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1565369_fc6ef_sm.jpeg",
+                  "wish_list" : false,
+                  "beer_name" : "West To East IPA",
+                  "auth_rating" : 0,
+                  "beer_abv" : 6.8,
+                  "beer_style" : "IPA - American",
+                  "beer_slug" : "pipe-dream-brewing-west-to-east-ipa",
+                  "beer_active" : 1,
+                  "bid" : 1565369,
+                  "has_had" : false
+               },
+               "rating_score" : 4,
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "comments" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : []
+               },
+               "toasts" : {
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "created_at" : "Sat, 10 Feb 2018 18:50:59 +0000",
+                        "uid" : 2152845,
+                        "user" : {
+                           "first_name" : "Jesse",
+                           "brewery_details" : [],
+                           "uid" : 2152845,
+                           "account_type" : "user",
+                           "venue_details" : [],
+                           "user_avatar" : "https://untappd.akamaized.net/profile/e03155074ee410d860e22e29a6290caf_100x100.jpg",
+                           "bio" : "",
+                           "last_name" : "A.",
+                           "location" : "",
+                           "user_name" : "Alltopje"
+                        },
+                        "like_id" : 476139751,
+                        "like_owner" : false
+                     }
+                  ],
+                  "auth_toast" : false,
+                  "total_count" : 1
+               },
+               "badges" : {
+                  "count" : 0,
+                  "retro_status" : false,
+                  "items" : []
+               }
+            },
+            {
+               "beer" : {
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-MonksCafeFlemishSourRedAle_21927.jpeg",
+                  "beer_name" : "Monk's Café Flemish Sour Ale",
+                  "beer_abv" : 5.5,
+                  "auth_rating" : 4.5,
+                  "beer_style" : "Sour - Flanders Oud Bruin",
+                  "beer_slug" : "brouwerij-van-steenberge-monk-s-cafe-flemish-sour-red-ale",
+                  "beer_active" : 1,
+                  "has_had" : true,
+                  "bid" : 21927
+               },
+               "badges" : {
+                  "count" : 1,
+                  "retro_status" : false,
+                  "items" : [
+                     {
+                        "badge_name" : "Pucker Up  (Level 12)",
+                        "badge_id" : 2198,
+                        "badge_description" : "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 60 different Sour Beers. Try 5 more for Level 13.",
+                        "badge_image" : {
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_SourBrew_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_SourBrew_lg.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_SourBrew_md.jpg"
+                        },
+                        "user_badge_id" : 303585898,
+                        "created_at" : "Sat, 10 Feb 2018 17:59:11 +0000"
+                     }
+                  ]
+               },
+               "comments" : {
+                  "count" : 0,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "toasts" : {
+                  "auth_toast" : false,
+                  "items" : [
+                     {
+                        "created_at" : "Sat, 10 Feb 2018 22:49:07 +0000",
+                        "uid" : 1158982,
+                        "like_id" : 476311892,
+                        "user" : {
+                           "account_type" : "user",
+                           "uid" : 1158982,
+                           "brewery_details" : [],
+                           "first_name" : "Matthew",
+                           "venue_details" : [],
+                           "user_avatar" : "https://gravatar.com/avatar/41fba3be1a559dcececd015507c443c5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                           "bio" : "",
+                           "location" : "",
+                           "last_name" : "",
+                           "user_name" : "oliveloaf"
+                        },
+                        "like_owner" : false
+                     },
+                     {
+                        "like_owner" : false,
+                        "uid" : 4779628,
+                        "created_at" : "Sat, 10 Feb 2018 17:59:39 +0000",
+                        "user" : {
+                           "venue_details" : [],
+                           "brewery_details" : [],
+                           "first_name" : "Carol",
+                           "uid" : 4779628,
+                           "account_type" : "user",
+                           "last_name" : "S.",
+                           "location" : "",
+                           "user_name" : "CShe",
+                           "user_avatar" : "https://gravatar.com/avatar/ac37fade324e586f27ccc2d80a9b96eb?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                           "bio" : ""
+                        },
+                        "like_id" : 476111801
+                     }
+                  ],
+                  "total_count" : 2,
+                  "count" : 2
+               },
+               "rating_score" : 4,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "created_at" : "Sat, 10 Feb 2018 17:59:10 +0000",
+               "checkin_comment" : "Yum. Really dark color",
+               "brewery" : {
+                  "brewery_name" : "Brouwerij Van Steenberge",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_city" : "Ertvelde",
+                     "lng" : 3.74609,
+                     "lat" : 51.1765,
+                     "brewery_state" : "Oost-Vlaanderen"
+                  },
+                  "brewery_slug" : "brouwerij-van-steenberge",
+                  "contact" : {
+                     "facebook" : "https://www.facebook.com/pages/Brouwerij-Vansteenberge/115468545211930",
+                     "instagram" : "",
+                     "twitter" : "",
+                     "url" : "http://www.vansteenberge.com"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-BrouwerijVanSteenberge_7778.jpeg",
+                  "brewery_id" : 7778,
+                  "country_name" : "Belgium"
+               },
+               "user" : {
+                  "contact" : [],
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : "",
+                  "user_name" : "msherman",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "is_supporter" : 0,
+                  "bio" : ""
+               },
+               "checkin_id" : 560402910,
+               "venue" : {
+                  "venue_name" : "Thirsty Moose Tap House - Manchester",
+                  "location" : {
+                     "venue_state" : "NH",
+                     "venue_city" : "Manchester",
+                     "lat" : 42.9894,
+                     "lng" : -71.4629,
+                     "venue_address" : "795 Elm St",
+                     "venue_country" : "United States"
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_name" : "Pub",
+                           "is_primary" : true,
+                           "category_id" : "4bf58dd8d48988d11b941735"
+                        },
+                        {
+                           "category_name" : "Sports Bar",
+                           "is_primary" : false,
+                           "category_id" : "4bf58dd8d48988d11d941735"
+                        }
+                     ],
+                     "count" : 2
+                  },
+                  "contact" : {
+                     "twitter" : "",
+                     "venue_url" : "http://thirstymoosetaphouse.com/portsmouth/"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_id" : "56589d75498ea8fe55e4845a",
+                     "foursquare_url" : "http://4sq.com/1SnSyIJ"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_88.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_3943915_0350b380_bg_64.png"
+                  },
+                  "venue_slug" : "thirsty-moose-tap-house-manchester",
+                  "venue_id" : 3943915
+               },
+               "media" : {
+                  "items" : [
+                     {
+                        "photo_id" : 159127789,
+                        "photo" : {
+                           "photo_img_sm" : "https://untappd.akamaized.net/photos/2018_02_10/e558cb7e835bc3e5480578f6bdb75651_100x100.jpeg",
+                           "photo_img_lg" : "https://untappd.akamaized.net/photos/2018_02_10/e558cb7e835bc3e5480578f6bdb75651_640x640.jpeg",
+                           "photo_img_og" : "https://untappd.akamaized.net/photos/2018_02_10/e558cb7e835bc3e5480578f6bdb75651_raw.jpeg",
+                           "photo_img_md" : "https://untappd.akamaized.net/photos/2018_02_10/e558cb7e835bc3e5480578f6bdb75651_320x320.jpeg"
+                        }
+                     }
+                  ],
+                  "count" : 1
+               }
+            },
+            {
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "auth_toast" : false,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "badges" : {
+                  "items" : [],
+                  "count" : 0,
+                  "retro_status" : false
+               },
+               "rating_score" : 4.25,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "beer" : {
+                  "beer_slug" : "night-shift-brewing-the-87",
+                  "beer_style" : "IPA - Imperial / Double",
+                  "bid" : 1015921,
+                  "has_had" : false,
+                  "beer_active" : 1,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1015921_3b931_sm.jpeg",
+                  "wish_list" : false,
+                  "auth_rating" : 0,
+                  "beer_abv" : 8,
+                  "beer_name" : "The 87"
+               },
+               "checkin_id" : 560277456,
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : [],
+               "brewery" : {
+                  "location" : {
+                     "brewery_city" : "Everett",
+                     "brewery_state" : "MA",
+                     "lng" : -71.0675,
+                     "lat" : 42.4061
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "Night Shift Brewing",
+                  "brewery_id" : 20827,
+                  "contact" : {
+                     "facebook" : "http://www.facebook.com/NightShiftBeer",
+                     "instagram" : "nightshiftbeer",
+                     "url" : "http://www.nightshiftbrewing.com",
+                     "twitter" : "nightshiftbeer"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-20827_647a8.jpeg",
+                  "country_name" : "United States",
+                  "brewery_slug" : "night-shift-brewing"
+               },
+               "checkin_comment" : "I've just been informed that libraries are still a thing. And apparently they have movies or something. That it all",
+               "created_at" : "Sat, 10 Feb 2018 06:14:36 +0000",
+               "user" : {
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "contact" : [],
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "user_name" : "msherman",
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : ""
+               }
+            },
+            {
+               "checkin_comment" : "",
+               "brewery" : {
+                  "brewery_slug" : "night-shift-brewing",
+                  "country_name" : "United States",
+                  "contact" : {
+                     "facebook" : "http://www.facebook.com/NightShiftBeer",
+                     "instagram" : "nightshiftbeer",
+                     "url" : "http://www.nightshiftbrewing.com",
+                     "twitter" : "nightshiftbeer"
+                  },
+                  "brewery_id" : 20827,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-20827_647a8.jpeg",
+                  "brewery_name" : "Night Shift Brewing",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "lng" : -71.0675,
+                     "lat" : 42.4061,
+                     "brewery_state" : "MA",
+                     "brewery_city" : "Everett"
+                  }
+               },
+               "created_at" : "Sat, 10 Feb 2018 06:13:32 +0000",
+               "user" : {
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "user_name" : "msherman",
+                  "url" : "",
+                  "location" : "NE US",
+                  "last_name" : "",
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "contact" : []
+               },
+               "checkin_id" : 560277284,
+               "media" : {
+                  "items" : [],
+                  "count" : 0
+               },
+               "venue" : [],
+               "beer" : {
+                  "auth_rating" : 0,
+                  "beer_abv" : 6,
+                  "beer_name" : "One Hop This Time: Amarillo",
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1910973_2e979_sm.jpeg",
+                  "wish_list" : false,
+                  "bid" : 1910973,
+                  "has_had" : false,
+                  "beer_active" : 1,
+                  "beer_slug" : "night-shift-brewing-one-hop-this-time-amarillo",
+                  "beer_style" : "IPA - American"
+               },
+               "toasts" : {
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "comments" : {
+                  "items" : [],
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "badges" : {
+                  "items" : [],
+                  "count" : 0,
+                  "retro_status" : false
+               },
+               "rating_score" : 4,
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               }
+            },
+            {
+               "checkin_id" : 560265011,
+               "media" : {
+                  "items" : [
+                     {
+                        "photo_id" : 159072004,
+                        "photo" : {
+                           "photo_img_og" : "https://untappd.akamaized.net/photos/2018_02_10/1906b2d6ff025d46d1b55e862e9df7af_raw.jpeg",
+                           "photo_img_sm" : "https://untappd.akamaized.net/photos/2018_02_10/1906b2d6ff025d46d1b55e862e9df7af_100x100.jpeg",
+                           "photo_img_lg" : "https://untappd.akamaized.net/photos/2018_02_10/1906b2d6ff025d46d1b55e862e9df7af_640x640.jpeg",
+                           "photo_img_md" : "https://untappd.akamaized.net/photos/2018_02_10/1906b2d6ff025d46d1b55e862e9df7af_320x320.jpeg"
+                        }
+                     }
+                  ],
+                  "count" : 1
+               },
+               "venue" : {
+                  "venue_slug" : "the-batcave",
+                  "venue_id" : 1837674,
+                  "venue_icon" : {
+                     "md" : "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_bg_88.png",
+                     "lg" : "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_bg_88.png",
+                     "sm" : "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_bg_64.png"
+                  },
+                  "foursquare" : {
+                     "foursquare_id" : "4cfab917dccef04d6c14b79c",
+                     "foursquare_url" : "http://4sq.com/i3bomT"
+                  },
+                  "is_verified" : false,
+                  "primary_category" : "Arts & Entertainment",
+                  "parent_category_id" : "4d4b7104d754a06370d81259",
+                  "contact" : {
+                     "twitter" : "",
+                     "venue_url" : ""
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_id" : "4bf58dd8d48988d1e5931735",
+                           "category_name" : "Music Venue",
+                           "is_primary" : true
+                        }
+                     ],
+                     "count" : 1
+                  },
+                  "location" : {
+                     "venue_state" : "NH",
+                     "venue_city" : "Epping",
+                     "lng" : -71.1374,
+                     "venue_address" : "",
+                     "lat" : 43.0377,
+                     "venue_country" : "United States"
+                  },
+                  "venue_name" : "The Batcave"
+               },
+               "brewery" : {
+                  "brewery_name" : "Ipswich Ale Brewery",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lng" : -70.8414,
+                     "lat" : 42.681,
+                     "brewery_city" : "Ipswich"
+                  },
+                  "brewery_slug" : "ipswich-ale-brewery",
+                  "country_name" : "United States",
+                  "brewery_id" : 9341,
+                  "contact" : {
+                     "url" : "http://www.ipswichalebrewery.com",
+                     "twitter" : "IpswichAleBrew",
+                     "instagram" : "ipswichalebrew",
+                     "facebook" : "http://www.facebook.com/ipswichalebrewery"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-IpswichAleBrewery_9341.jpeg"
+               },
+               "created_at" : "Sat, 10 Feb 2018 05:15:41 +0000",
+               "checkin_comment" : "Solid new IPA. Good hop taste but a little funky aftertaste I can't identify. Not a bad Garrison city style one but a little idk",
+               "user" : {
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "contact" : [],
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "user_name" : "msherman",
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : ""
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : [],
+                  "auth_toast" : false
+               },
+               "comments" : {
+                  "items" : [],
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "rating_score" : 3.75,
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "beer" : {
+                  "auth_rating" : 0,
+                  "beer_abv" : 6.3,
+                  "beer_name" : "1620",
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2170782_3e021_sm.jpeg",
+                  "wish_list" : false,
+                  "bid" : 2170782,
+                  "has_had" : false,
+                  "beer_active" : 1,
+                  "beer_slug" : "ipswich-ale-brewery-1620",
+                  "beer_style" : "IPA - New England"
+               }
+            },
+            {
+               "user" : {
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "user_name" : "msherman",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "contact" : [],
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276
+               },
+               "checkin_comment" : "Spreading the good word with some milkshake ipa",
+               "created_at" : "Sat, 10 Feb 2018 05:03:44 +0000",
+               "brewery" : {
+                  "country_name" : "United States",
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-11459_c2360.jpeg",
+                  "contact" : {
+                     "facebook" : "http://www.facebook.com/MysticBrewery",
+                     "instagram" : "mysticbrewery",
+                     "url" : "http://mystic-brewery.com",
+                     "twitter" : "theMysticBrewery"
+                  },
+                  "brewery_id" : 11459,
+                  "brewery_slug" : "mystic",
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lng" : -71.0441,
+                     "lat" : 42.392,
+                     "brewery_city" : "Chelsea"
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "Mystic"
+               },
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "contact" : {
+                     "venue_url" : "",
+                     "twitter" : ""
+                  },
+                  "venue_id" : 7352064,
+                  "venue_slug" : "epping-bible-baptist-church",
+                  "venue_icon" : {
+                     "md" : "https://ss3.4sqi.net/img/categories_v2/building/religious_church_bg_88.png",
+                     "sm" : "https://ss3.4sqi.net/img/categories_v2/building/religious_church_bg_64.png",
+                     "lg" : "https://ss3.4sqi.net/img/categories_v2/building/religious_church_bg_88.png"
+                  },
+                  "is_verified" : false,
+                  "foursquare" : {
+                     "foursquare_id" : "505f276be4b0f9bbcc59d963",
+                     "foursquare_url" : "http://4sq.com/SmbI65"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06375d81259",
+                  "primary_category" : "Professional & Other Places",
+                  "location" : {
+                     "lat" : 43.0415,
+                     "lng" : -71.1132,
+                     "venue_address" : "",
+                     "venue_country" : "United States",
+                     "venue_state" : "NH",
+                     "venue_city" : "Epping"
+                  },
+                  "venue_name" : "Epping Bible Baptist Church",
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "category_name" : "Church",
+                           "is_primary" : true,
+                           "category_id" : "4bf58dd8d48988d132941735"
+                        }
+                     ]
+                  }
+               },
+               "checkin_id" : 560261657,
+               "beer" : {
+                  "beer_slug" : "mystic-frappe-ipa",
+                  "beer_style" : "IPA - American",
+                  "has_had" : false,
+                  "bid" : 2487086,
+                  "beer_active" : 1,
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2487086_dc862_sm.jpeg",
+                  "beer_abv" : 7.5,
+                  "auth_rating" : 0,
+                  "beer_name" : "Frappe IPA"
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 4.5,
+               "comments" : {
+                  "items" : [
+                     {
+                        "checkin_id" : 560261657,
+                        "comment_editor" : false,
+                        "created_at" : "Sat, 10 Feb 2018 05:04:26 +0000",
+                        "comment_source" : "API",
+                        "user" : {
+                           "venue_details" : [],
+                           "first_name" : "John",
+                           "brewery_details" : [],
+                           "uid" : 3190145,
+                           "account_type" : "user",
+                           "user_name" : "jwsherman",
+                           "last_name" : "S.",
+                           "location" : "",
+                           "bio" : "",
+                           "is_supporter" : 0,
+                           "user_avatar" : "https://gravatar.com/avatar/579ddbbdf46a6cc09aa8d34cc9c71ebb?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                           "relationship" : "none"
+                        },
+                        "comment_id" : 40036734,
+                        "comment_owner" : false,
+                        "comment" : "Great location for it"
+                     }
+                  ],
+                  "total_count" : 1,
+                  "count" : 1
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "auth_toast" : false,
+                  "items" : []
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               }
+            },
+            {
+               "checkin_comment" : "Really nice. It's hazy AF but also very hop bitter",
+               "created_at" : "Sat, 10 Feb 2018 03:09:15 +0000",
+               "brewery" : {
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "country_name" : "United States",
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_id" : 25437,
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lng" : -70.8801,
+                     "lat" : 42.8015,
+                     "brewery_city" : "Newburyport"
+                  }
+               },
+               "user" : {
+                  "contact" : [],
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "uid" : 1158276,
+                  "user_name" : "msherman",
+                  "last_name" : "",
+                  "url" : "",
+                  "location" : "NE US",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends"
+               },
+               "checkin_id" : 560210730,
+               "venue" : {
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA",
+                     "venue_country" : "United States",
+                     "lng" : -70.8823,
+                     "lat" : 42.806,
+                     "venue_address" : "40 Parker St"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "category_id" : "50327c8591d4c4b30a586d5d",
+                           "is_primary" : true,
+                           "category_name" : "Brewery"
+                        }
+                     ]
+                  },
+                  "contact" : {
+                     "venue_url" : "http://riverwalkbrewing.com/",
+                     "twitter" : "@riverwalkbeer"
+                  },
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_icon" : {
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531
+               },
+               "media" : {
+                  "items" : [
+                     {
+                        "photo" : {
+                           "photo_img_md" : "https://untappd.akamaized.net/photos/2018_02_10/e7e101ac9b0c3570284d90f52611c254_320x320.jpeg",
+                           "photo_img_sm" : "https://untappd.akamaized.net/photos/2018_02_10/e7e101ac9b0c3570284d90f52611c254_100x100.jpeg",
+                           "photo_img_lg" : "https://untappd.akamaized.net/photos/2018_02_10/e7e101ac9b0c3570284d90f52611c254_640x640.jpeg",
+                           "photo_img_og" : "https://untappd.akamaized.net/photos/2018_02_10/e7e101ac9b0c3570284d90f52611c254_raw.jpeg"
+                        },
+                        "photo_id" : 159056003
+                     }
+                  ],
+                  "count" : 1
+               },
+               "beer" : {
+                  "beer_slug" : "riverwalk-brewing-co-turbine",
+                  "beer_style" : "IPA - Imperial / Double",
+                  "has_had" : false,
+                  "bid" : 2437382,
+                  "beer_active" : 1,
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2437382_084c6_sm.jpeg",
+                  "beer_abv" : 8.5,
+                  "auth_rating" : 0,
+                  "beer_name" : "Turbine"
+               },
+               "badges" : {
+                  "items" : [
+                     {
+                        "badge_name" : "I Believe in IPA! (Level 91)",
+                        "badge_id" : 93376,
+                        "badge_description" : "We believe in IPA and you should too. You certainly have a taste for the hops! That's 455 different IPAs.  Try 5 more for Level 92!",
+                        "user_badge_id" : 303409372,
+                        "badge_image" : {
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg"
+                        },
+                        "created_at" : "Sat, 10 Feb 2018 03:09:16 +0000"
+                     }
+                  ],
+                  "retro_status" : false,
+                  "count" : 1
+               },
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "toasts" : {
+                  "count" : 1,
+                  "auth_toast" : false,
+                  "items" : [
+                     {
+                        "like_id" : 475938329,
+                        "user" : {
+                           "account_type" : "user",
+                           "uid" : 2383210,
+                           "first_name" : "jd",
+                           "brewery_details" : [],
+                           "venue_details" : [],
+                           "user_avatar" : "https://untappd.akamaized.net/profile/5c990f2cb65b86f6121a3f8ed0cf8ee5_100x100.jpg",
+                           "bio" : "",
+                           "location" : "NH",
+                           "last_name" : "",
+                           "user_name" : "link5141"
+                        },
+                        "uid" : 2383210,
+                        "created_at" : "Sat, 10 Feb 2018 04:36:57 +0000",
+                        "like_owner" : false
+                     }
+                  ],
+                  "total_count" : 1
+               },
+               "rating_score" : 4,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               }
+            },
+            {
+               "checkin_id" : 560207578,
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA",
+                     "venue_country" : "United States",
+                     "lat" : 42.806,
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "is_primary" : true,
+                           "category_name" : "Brewery",
+                           "category_id" : "50327c8591d4c4b30a586d5d"
+                        }
+                     ]
+                  },
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "venue_icon" : {
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531
+               },
+               "checkin_comment" : "Eh, I don't like the aftertaste",
+               "brewery" : {
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lng" : -70.8801,
+                     "lat" : 42.8015,
+                     "brewery_city" : "Newburyport"
+                  },
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "country_name" : "United States",
+                  "contact" : {
+                     "twitter" : "RiverWalkBeer",
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "instagram" : "RiverWalkBrewing",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_id" : 25437
+               },
+               "created_at" : "Sat, 10 Feb 2018 03:04:03 +0000",
+               "user" : {
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "user_name" : "msherman",
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276,
+                  "contact" : []
+               },
+               "comments" : {
+                  "items" : [],
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "toasts" : {
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "badges" : {
+                  "items" : [
+                     {
+                        "badge_description" : "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 315 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 64!",
+                        "badge_id" : 65598,
+                        "badge_name" : "Middle of the Road (Level 63)",
+                        "created_at" : "Sat, 10 Feb 2018 03:04:03 +0000",
+                        "user_badge_id" : 303406608,
+                        "badge_image" : {
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg"
+                        }
+                     }
+                  ],
+                  "retro_status" : false,
+                  "count" : 1
+               },
+               "rating_score" : 2.75,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "beer" : {
+                  "beer_style" : "IPA - American",
+                  "beer_slug" : "riverwalk-brewing-co-riverwalk-ipa",
+                  "beer_active" : 1,
+                  "bid" : 141046,
+                  "has_had" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-141046_e9a69_sm.jpeg",
+                  "wish_list" : false,
+                  "beer_name" : "Riverwalk IPA",
+                  "auth_rating" : 0,
+                  "beer_abv" : 6.8
+               }
+            },
+            {
+               "checkin_id" : 560206689,
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_name" : "Brewery",
+                           "is_primary" : true,
+                           "category_id" : "50327c8591d4c4b30a586d5d"
+                        }
+                     ],
+                     "count" : 1
+                  },
+                  "location" : {
+                     "venue_country" : "United States",
+                     "lng" : -70.8823,
+                     "lat" : 42.806,
+                     "venue_address" : "40 Parker St",
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA"
+                  },
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "venue_id" : 515531,
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_id" : "50b9115ce4b04809bca20f81",
+                     "foursquare_url" : "http://4sq.com/YfJQVh"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "contact" : {
+                     "venue_url" : "http://riverwalkbrewing.com/",
+                     "twitter" : "@riverwalkbeer"
+                  }
+               },
+               "created_at" : "Sat, 10 Feb 2018 03:02:35 +0000",
+               "checkin_comment" : "This is good. Bitter and hopped to oblivion (DDH)",
+               "brewery" : {
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "country_name" : "United States",
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing"
+                  },
+                  "brewery_id" : 25437,
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "lat" : 42.8015,
+                     "lng" : -70.8801,
+                     "brewery_state" : "MA",
+                     "brewery_city" : "Newburyport"
+                  }
+               },
+               "user" : {
+                  "user_name" : "msherman",
+                  "url" : "",
+                  "location" : "NE US",
+                  "last_name" : "",
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "contact" : [],
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0
+               },
+               "comments" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : []
+               },
+               "toasts" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "auth_toast" : false,
+                  "count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "rating_score" : 3.75,
+               "beer" : {
+                  "beer_slug" : "riverwalk-brewing-co-rangelight-ipa",
+                  "beer_style" : "IPA - American",
+                  "bid" : 1104654,
+                  "has_had" : false,
+                  "beer_active" : 1,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1104654_f7f41_sm.jpeg",
+                  "wish_list" : false,
+                  "auth_rating" : 0,
+                  "beer_abv" : 5.8,
+                  "beer_name" : "Rangelight IPA"
+               }
+            },
+            {
+               "created_at" : "Sat, 10 Feb 2018 03:00:12 +0000",
+               "checkin_comment" : "Pretty nice, dialed in. Azacca and Columbus who knew",
+               "brewery" : {
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "country_name" : "United States",
+                  "brewery_id" : 25437,
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "brewery_state" : "MA",
+                     "lng" : -70.8801,
+                     "lat" : 42.8015
+                  },
+                  "brewery_active" : 1
+               },
+               "user" : {
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "user_name" : "msherman",
+                  "url" : "",
+                  "location" : "NE US",
+                  "last_name" : "",
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "contact" : []
+               },
+               "checkin_id" : 560205192,
+               "venue" : {
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "lat" : 42.806,
+                     "venue_country" : "United States",
+                     "venue_state" : "MA",
+                     "venue_city" : "Newburyport"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "category_id" : "50327c8591d4c4b30a586d5d",
+                           "category_name" : "Brewery",
+                           "is_primary" : true
+                        }
+                     ]
+                  },
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_icon" : {
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531
+               },
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "beer" : {
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2484770_f9975_sm.jpeg",
+                  "wish_list" : false,
+                  "beer_name" : "AzaccaBus",
+                  "auth_rating" : 0,
+                  "beer_abv" : 5.5,
+                  "beer_style" : "Pale Ale - American",
+                  "beer_slug" : "riverwalk-brewing-co-azaccabus",
+                  "beer_active" : 1,
+                  "bid" : 2484770,
+                  "has_had" : false
+               },
+               "badges" : {
+                  "count" : 1,
+                  "retro_status" : false,
+                  "items" : [
+                     {
+                        "user_badge_id" : 303404585,
+                        "badge_image" : {
+                           "md" : "https://untappd.akamaized.net/badges/bdg_TastersPlease_md.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_TastersPlease_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_TastersPlease_lg.jpg"
+                        },
+                        "created_at" : "Sat, 10 Feb 2018 03:00:12 +0000",
+                        "badge_id" : 168191,
+                        "badge_name" : "Taster, Please (Level 5)",
+                        "badge_description" : "At a new place and don't want to choose a pint of something you may not like? Grab a few tasters! Enjoy some small pours and then decide which to upgrade to a full pour. That's 25 checkins with the serving style of Taster. Try 5 more for Level 6!"
+                     }
+                  ]
+               },
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0
+               },
+               "rating_score" : 3.5,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               }
+            },
+            {
+               "checkin_id" : 560196037,
+               "venue" : {
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_state" : "MA",
+                     "venue_city" : "Newburyport",
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "lat" : 42.806,
+                     "venue_country" : "United States"
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "is_primary" : true,
+                           "category_name" : "Brewery",
+                           "category_id" : "50327c8591d4c4b30a586d5d"
+                        }
+                     ],
+                     "count" : 1
+                  },
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png"
+                  },
+                  "venue_id" : 515531,
+                  "venue_slug" : "riverwalk-brewing-co"
+               },
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "checkin_comment" : "This is actually pretty nice! (No Brett, I checked 😂)",
+               "brewery" : {
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "lat" : 42.8015,
+                     "lng" : -70.8801,
+                     "brewery_state" : "MA"
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "country_name" : "United States",
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing"
+                  },
+                  "brewery_id" : 25437,
+                  "brewery_slug" : "riverwalk-brewing-co"
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:46:17 +0000",
+               "user" : {
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276,
+                  "contact" : [],
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "user_name" : "msherman"
+               },
+               "badges" : {
+                  "count" : 0,
+                  "retro_status" : false,
+                  "items" : []
+               },
+               "toasts" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "auth_toast" : false,
+                  "count" : 0
+               },
+               "comments" : {
+                  "items" : [],
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 3.75,
+               "beer" : {
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-141048_80a08_sm.jpeg",
+                  "beer_name" : "Gnomad",
+                  "beer_abv" : 7.7,
+                  "auth_rating" : 0,
+                  "beer_style" : "Saison / Farmhouse Ale",
+                  "beer_slug" : "riverwalk-brewing-co-gnomad",
+                  "beer_active" : 1,
+                  "has_had" : false,
+                  "bid" : 141048
+               }
+            },
+            {
+               "checkin_id" : 560194316,
+               "media" : {
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "photo_id" : 159051165,
+                        "photo" : {
+                           "photo_img_og" : "https://untappd.akamaized.net/photos/2018_02_10/d42324700cb538a989e5b70b51ebc348_raw.jpeg",
+                           "photo_img_sm" : "https://untappd.akamaized.net/photos/2018_02_10/d42324700cb538a989e5b70b51ebc348_100x100.jpeg",
+                           "photo_img_lg" : "https://untappd.akamaized.net/photos/2018_02_10/d42324700cb538a989e5b70b51ebc348_640x640.jpeg",
+                           "photo_img_md" : "https://untappd.akamaized.net/photos/2018_02_10/d42324700cb538a989e5b70b51ebc348_320x320.jpeg"
+                        }
+                     }
+                  ]
+               },
+               "venue" : {
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_country" : "United States",
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "lat" : 42.806,
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA"
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_id" : "50327c8591d4c4b30a586d5d",
+                           "category_name" : "Brewery",
+                           "is_primary" : true
+                        }
+                     ],
+                     "count" : 1
+                  },
+                  "contact" : {
+                     "venue_url" : "http://riverwalkbrewing.com/",
+                     "twitter" : "@riverwalkbeer"
+                  },
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531
+               },
+               "checkin_comment" : "Belgiany start and citrusy finish, pretty nice.",
+               "brewery" : {
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "lat" : 42.8015,
+                     "lng" : -70.8801,
+                     "brewery_state" : "MA"
+                  },
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "country_name" : "United States",
+                  "brewery_id" : 25437,
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg"
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:43:39 +0000",
+               "user" : {
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276,
+                  "contact" : [],
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "user_name" : "msherman"
+               },
+               "toasts" : {
+                  "total_count" : 1,
+                  "auth_toast" : false,
+                  "items" : [
+                     {
+                        "uid" : 2383210,
+                        "created_at" : "Sat, 10 Feb 2018 02:43:51 +0000",
+                        "like_id" : 475884377,
+                        "user" : {
+                           "uid" : 2383210,
+                           "account_type" : "user",
+                           "brewery_details" : [],
+                           "first_name" : "jd",
+                           "venue_details" : [],
+                           "bio" : "",
+                           "user_avatar" : "https://untappd.akamaized.net/profile/5c990f2cb65b86f6121a3f8ed0cf8ee5_100x100.jpg",
+                           "user_name" : "link5141",
+                           "location" : "NH",
+                           "last_name" : ""
+                        },
+                        "like_owner" : false
+                     }
+                  ],
+                  "count" : 1
+               },
+               "comments" : {
+                  "count" : 0,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 3.75,
+               "beer" : {
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2194578_e39aa_sm.jpeg",
+                  "wish_list" : false,
+                  "auth_rating" : 0,
+                  "beer_abv" : 4.6,
+                  "beer_name" : "Tricoastal",
+                  "beer_slug" : "riverwalk-brewing-co-tricoastal",
+                  "beer_style" : "Pale Ale - Belgian",
+                  "bid" : 2194578,
+                  "has_had" : false,
+                  "beer_active" : 1
+               }
+            },
+            {
+               "beer" : {
+                  "beer_slug" : "riverwalk-brewing-co-storm-door-porter",
+                  "beer_style" : "Porter - American",
+                  "has_had" : false,
+                  "bid" : 489889,
+                  "beer_active" : 1,
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-489889_bc2fb_sm.jpeg",
+                  "beer_abv" : 6.3,
+                  "auth_rating" : 0,
+                  "beer_name" : "Storm Door Porter"
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 3.25,
+               "toasts" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : [],
+                  "auth_toast" : false
+               },
+               "comments" : {
+                  "count" : 0,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "user" : {
+                  "contact" : [],
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "uid" : 1158276,
+                  "user_name" : "msherman",
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends"
+               },
+               "checkin_comment" : "Okay, vanilla and cinnamon but doesn't quite blend perfectly. Not too shabby though",
+               "brewery" : {
+                  "country_name" : "United States",
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "instagram" : "RiverWalkBrewing",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing"
+                  },
+                  "brewery_id" : 25437,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "brewery_state" : "MA",
+                     "lat" : 42.8015,
+                     "lng" : -70.8801
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "RiverWalk Brewing Co."
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:39:44 +0000",
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_id" : "50b9115ce4b04809bca20f81",
+                     "foursquare_url" : "http://4sq.com/YfJQVh"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_icon" : {
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "venue_id" : 515531,
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_country" : "United States",
+                     "lng" : -70.8823,
+                     "lat" : 42.806,
+                     "venue_address" : "40 Parker St",
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "category_id" : "50327c8591d4c4b30a586d5d",
+                           "category_name" : "Brewery",
+                           "is_primary" : true
+                        }
+                     ]
+                  }
+               },
+               "checkin_id" : 560191697
+            },
+            {
+               "beer" : {
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2468457_c221f_sm.jpeg",
+                  "beer_abv" : 3.9,
+                  "auth_rating" : 0,
+                  "beer_name" : "Session Stout",
+                  "beer_slug" : "riverwalk-brewing-co-session-stout",
+                  "beer_style" : "Stout - American",
+                  "has_had" : false,
+                  "bid" : 2468457,
+                  "beer_active" : 1
+               },
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "auth_toast" : false,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "badges" : {
+                  "items" : [
+                     {
+                        "created_at" : "Sat, 10 Feb 2018 02:36:58 +0000",
+                        "badge_image" : {
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg"
+                        },
+                        "user_badge_id" : 303391685,
+                        "badge_description" : "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 95 different beers with an ABV of 5% and lower. Try 5 more for Level 20!",
+                        "badge_id" : 5981,
+                        "badge_name" : "Riding Steady (Level 19)"
+                     }
+                  ],
+                  "retro_status" : false,
+                  "count" : 1
+               },
+               "rating_score" : 3.25,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "checkin_comment" : "Little chocolate but not too much, not too bad.",
+               "created_at" : "Sat, 10 Feb 2018 02:36:57 +0000",
+               "brewery" : {
+                  "country_name" : "United States",
+                  "contact" : {
+                     "instagram" : "RiverWalkBrewing",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_id" : 25437,
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lat" : 42.8015,
+                     "lng" : -70.8801,
+                     "brewery_city" : "Newburyport"
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "RiverWalk Brewing Co."
+               },
+               "user" : {
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "user_name" : "msherman",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "contact" : [],
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276
+               },
+               "checkin_id" : 560189814,
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_id" : "50b9115ce4b04809bca20f81",
+                     "foursquare_url" : "http://4sq.com/YfJQVh"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531,
+                  "contact" : {
+                     "venue_url" : "http://riverwalkbrewing.com/",
+                     "twitter" : "@riverwalkbeer"
+                  },
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_id" : "50327c8591d4c4b30a586d5d",
+                           "category_name" : "Brewery",
+                           "is_primary" : true
+                        }
+                     ],
+                     "count" : 1
+                  },
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_country" : "United States",
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "lat" : 42.806,
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA"
+                  }
+               }
+            },
+            {
+               "checkin_id" : 560175330,
+               "venue" : {
+                  "is_verified" : true,
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "venue_id" : 515531,
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "is_primary" : true,
+                           "category_name" : "Brewery",
+                           "category_id" : "50327c8591d4c4b30a586d5d"
+                        }
+                     ]
+                  },
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "location" : {
+                     "venue_state" : "MA",
+                     "venue_city" : "Newburyport",
+                     "lat" : 42.806,
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "venue_country" : "United States"
+                  }
+               },
+               "media" : {
+                  "items" : [],
+                  "count" : 0
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:17:18 +0000",
+               "checkin_comment" : "Nope. More like a weak ale 😥",
+               "brewery" : {
+                  "contact" : {
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing",
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer"
+                  },
+                  "brewery_id" : 25437,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "country_name" : "United States",
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "location" : {
+                     "brewery_state" : "MA",
+                     "lng" : -70.8801,
+                     "lat" : 42.8015,
+                     "brewery_city" : "Newburyport"
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "RiverWalk Brewing Co."
+               },
+               "user" : {
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "uid" : 1158276,
+                  "contact" : [],
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "user_name" : "msherman",
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : ""
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "badge_name" : "Middle of the Road (Level 62)",
+                        "badge_id" : 65597,
+                        "badge_description" : "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 310 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 63!",
+                        "badge_image" : {
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg"
+                        },
+                        "user_badge_id" : 303378983,
+                        "created_at" : "Sat, 10 Feb 2018 02:17:19 +0000"
+                     }
+                  ]
+               },
+               "comments" : {
+                  "items" : [],
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "auth_toast" : false,
+                  "items" : []
+               },
+               "rating_score" : 2,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "beer" : {
+                  "beer_style" : "Strong Ale - American",
+                  "beer_slug" : "riverwalk-brewing-co-flannel-trousers",
+                  "beer_active" : 1,
+                  "has_had" : false,
+                  "bid" : 323045,
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-323045_2e3f6_sm.jpeg",
+                  "beer_name" : "Flannel Trousers",
+                  "beer_abv" : 7.5,
+                  "auth_rating" : 0
+               }
+            },
+            {
+               "media" : {
+                  "items" : [],
+                  "count" : 0
+               },
+               "venue" : {
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531,
+                  "primary_category" : "Nightlife Spot",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "venue_icon" : {
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "is_primary" : true,
+                           "category_name" : "Brewery",
+                           "category_id" : "50327c8591d4c4b30a586d5d"
+                        }
+                     ]
+                  },
+                  "location" : {
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA",
+                     "venue_country" : "United States",
+                     "venue_address" : "40 Parker St",
+                     "lng" : -70.8823,
+                     "lat" : 42.806
+                  },
+                  "venue_name" : "Riverwalk Brewing Co."
+               },
+               "checkin_id" : 560173734,
+               "user" : {
+                  "contact" : [],
+                  "uid" : 1158276,
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "url" : "",
+                  "location" : "NE US",
+                  "last_name" : "",
+                  "user_name" : "msherman",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "bio" : "",
+                  "is_supporter" : 0
+               },
+               "checkin_comment" : "Eh, got that bad after taste I don't love",
+               "brewery" : {
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "contact" : {
+                     "instagram" : "RiverWalkBrewing",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_id" : 25437,
+                  "country_name" : "United States",
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "lat" : 42.8015,
+                     "lng" : -70.8801,
+                     "brewery_state" : "MA"
+                  },
+                  "brewery_active" : 1
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:15:08 +0000",
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "rating_score" : 2.5,
+               "comments" : {
+                  "items" : [],
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "toasts" : {
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0,
+                  "count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "badge_name" : "Taster, Please (Level 4)",
+                        "badge_id" : 168190,
+                        "badge_description" : "At a new place and don't want to choose a pint of something you may not like? Grab a few tasters! Enjoy some small pours and then decide which to upgrade to a full pour. That's 20 checkins with the serving style of Taster. Try 5 more for Level 5!",
+                        "user_badge_id" : 303377604,
+                        "badge_image" : {
+                           "md" : "https://untappd.akamaized.net/badges/bdg_TastersPlease_md.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_TastersPlease_lg.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_TastersPlease_sm.jpg"
+                        },
+                        "created_at" : "Sat, 10 Feb 2018 02:15:08 +0000"
+                     }
+                  ]
+               },
+               "beer" : {
+                  "beer_name" : "Rustic Pilsner",
+                  "beer_abv" : 5.5,
+                  "auth_rating" : 0,
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1025290_86fb4_sm.jpeg",
+                  "beer_active" : 1,
+                  "has_had" : false,
+                  "bid" : 1025290,
+                  "beer_style" : "Pilsner - Other",
+                  "beer_slug" : "riverwalk-brewing-co-rustic-pilsner"
+               }
+            },
+            {
+               "beer" : {
+                  "beer_style" : "English Bitter",
+                  "beer_slug" : "riverwalk-brewing-co-uncle-bob-s",
+                  "beer_active" : 1,
+                  "has_had" : false,
+                  "bid" : 141049,
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-141049_f8b03_sm.jpeg",
+                  "beer_name" : "Uncle Bob's",
+                  "beer_abv" : 4.5,
+                  "auth_rating" : 0
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0
+               },
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "rating_score" : 3.25,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:13:42 +0000",
+               "checkin_comment" : "Not too bad for a bitter.",
+               "brewery" : {
+                  "contact" : {
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "twitter" : "RiverWalkBeer",
+                     "instagram" : "RiverWalkBrewing",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing"
+                  },
+                  "brewery_id" : 25437,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "country_name" : "United States",
+                  "brewery_slug" : "riverwalk-brewing-co",
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "lat" : 42.8015,
+                     "lng" : -70.8801,
+                     "brewery_state" : "MA"
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "RiverWalk Brewing Co."
+               },
+               "user" : {
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "last_name" : "",
+                  "url" : "",
+                  "location" : "NE US",
+                  "user_name" : "msherman",
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276,
+                  "contact" : []
+               },
+               "checkin_id" : 560172744,
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "venue_id" : 515531,
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/YfJQVh",
+                     "foursquare_id" : "50b9115ce4b04809bca20f81"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "primary_category" : "Nightlife Spot",
+                  "venue_icon" : {
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "is_primary" : true,
+                           "category_name" : "Brewery",
+                           "category_id" : "50327c8591d4c4b30a586d5d"
+                        }
+                     ]
+                  },
+                  "location" : {
+                     "venue_state" : "MA",
+                     "venue_city" : "Newburyport",
+                     "lat" : 42.806,
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "venue_country" : "United States"
+                  },
+                  "venue_name" : "Riverwalk Brewing Co."
+               }
+            },
+            {
+               "beer" : {
+                  "has_had" : false,
+                  "bid" : 2475909,
+                  "beer_active" : 1,
+                  "beer_slug" : "riverwalk-brewing-co-golden-axe",
+                  "beer_style" : "Lager - Helles",
+                  "beer_abv" : 4.75,
+                  "auth_rating" : 0,
+                  "beer_name" : "Golden Axe",
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2475909_af467_sm.jpeg"
+               },
+               "comments" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : []
+               },
+               "toasts" : {
+                  "total_count" : 1,
+                  "items" : [
+                     {
+                        "uid" : 2383210,
+                        "created_at" : "Sat, 10 Feb 2018 02:11:56 +0000",
+                        "like_id" : 475864194,
+                        "user" : {
+                           "venue_details" : [],
+                           "account_type" : "user",
+                           "uid" : 2383210,
+                           "first_name" : "jd",
+                           "brewery_details" : [],
+                           "user_name" : "link5141",
+                           "location" : "NH",
+                           "last_name" : "",
+                           "bio" : "",
+                           "user_avatar" : "https://untappd.akamaized.net/profile/5c990f2cb65b86f6121a3f8ed0cf8ee5_100x100.jpg"
+                        },
+                        "like_owner" : false
+                     }
+                  ],
+                  "auth_toast" : false,
+                  "count" : 1
+               },
+               "badges" : {
+                  "items" : [
+                     {
+                        "badge_description" : "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 25 different Lagers! Try 5 more to unlock Level 6.",
+                        "badge_id" : 281,
+                        "badge_name" : "Lager Jack (Level 5)",
+                        "created_at" : "Sat, 10 Feb 2018 02:10:49 +0000",
+                        "badge_image" : {
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg"
+                        },
+                        "user_badge_id" : 303374881
+                     }
+                  ],
+                  "retro_status" : false,
+                  "count" : 1
+               },
+               "rating_score" : 3.75,
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "checkin_comment" : "Nice, crisp",
+               "brewery" : {
+                  "location" : {
+                     "brewery_city" : "Newburyport",
+                     "brewery_state" : "MA",
+                     "lng" : -70.8801,
+                     "lat" : 42.8015
+                  },
+                  "brewery_active" : 1,
+                  "brewery_name" : "RiverWalk Brewing Co.",
+                  "country_name" : "United States",
+                  "brewery_id" : 25437,
+                  "contact" : {
+                     "twitter" : "RiverWalkBeer",
+                     "url" : "http://www.riverwalkbrewing.com/",
+                     "facebook" : "http://www.facebook.com/riverwalkbrewing",
+                     "instagram" : "RiverWalkBrewing"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-25437_4c016.jpeg",
+                  "brewery_slug" : "riverwalk-brewing-co"
+               },
+               "created_at" : "Sat, 10 Feb 2018 02:10:48 +0000",
+               "user" : {
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : "",
+                  "user_name" : "msherman",
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "is_supporter" : 0,
+                  "bio" : "",
+                  "contact" : [],
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0
+               },
+               "checkin_id" : 560170671,
+               "media" : {
+                  "items" : [],
+                  "count" : 0
+               },
+               "venue" : {
+                  "contact" : {
+                     "twitter" : "@riverwalkbeer",
+                     "venue_url" : "http://riverwalkbrewing.com/"
+                  },
+                  "venue_slug" : "riverwalk-brewing-co",
+                  "venue_id" : 515531,
+                  "venue_icon" : {
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_64.png",
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_515531_5f928243_bg_88.png"
+                  },
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_id" : "50b9115ce4b04809bca20f81",
+                     "foursquare_url" : "http://4sq.com/YfJQVh"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06376d81259",
+                  "primary_category" : "Nightlife Spot",
+                  "location" : {
+                     "venue_country" : "United States",
+                     "lat" : 42.806,
+                     "lng" : -70.8823,
+                     "venue_address" : "40 Parker St",
+                     "venue_city" : "Newburyport",
+                     "venue_state" : "MA"
+                  },
+                  "venue_name" : "Riverwalk Brewing Co.",
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_id" : "50327c8591d4c4b30a586d5d",
+                           "category_name" : "Brewery",
+                           "is_primary" : true
+                        }
+                     ],
+                     "count" : 1
+                  }
+               }
+            },
+            {
+               "beer" : {
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-1965930_1febe_sm.jpeg",
+                  "wish_list" : false,
+                  "auth_rating" : 0,
+                  "beer_abv" : 6.8,
+                  "beer_name" : "Tropical Haze",
+                  "beer_slug" : "great-rhythm-brewing-company-tropical-haze",
+                  "beer_style" : "IPA - American",
+                  "bid" : 1965930,
+                  "has_had" : false,
+                  "beer_active" : 1
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "comments" : {
+                  "total_count" : 0,
+                  "items" : [],
+                  "count" : 0
+               },
+               "toasts" : {
+                  "count" : 1,
+                  "items" : [
+                     {
+                        "user" : {
+                           "uid" : 1680400,
+                           "account_type" : "user",
+                           "brewery_details" : [],
+                           "first_name" : "Lance",
+                           "venue_details" : [],
+                           "bio" : "",
+                           "user_avatar" : "https://untappd.akamaized.net/profile/8795acce31275070a98ae1454908d6df_100x100.jpg",
+                           "user_name" : "Mc28adam",
+                           "location" : "",
+                           "last_name" : "M."
+                        },
+                        "like_id" : 476645642,
+                        "uid" : 1680400,
+                        "created_at" : "Sun, 11 Feb 2018 15:20:55 +0000",
+                        "like_owner" : false
+                     }
+                  ],
+                  "auth_toast" : false,
+                  "total_count" : 1
+               },
+               "rating_score" : 4.25,
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "created_at" : "Fri, 09 Feb 2018 22:35:49 +0000",
+               "brewery" : {
+                  "country_name" : "United States",
+                  "contact" : {
+                     "instagram" : "greatrhythmbrewing",
+                     "facebook" : "https://www.facebook.com/greatrhythmbrewing",
+                     "url" : "http://www.greatrhythmbrewing.com",
+                     "twitter" : "greatrhythmbrew"
+                  },
+                  "brewery_id" : 41591,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-41591_02da9.jpeg",
+                  "brewery_slug" : "great-rhythm-brewing-company",
+                  "brewery_active" : 1,
+                  "location" : {
+                     "brewery_state" : "NH",
+                     "lat" : 43.0718,
+                     "lng" : -70.7626,
+                     "brewery_city" : "Portsmouth"
+                  },
+                  "brewery_name" : "Great Rhythm Brewing Company"
+               },
+               "checkin_comment" : "Could be my every day beer",
+               "user" : {
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "user_name" : "msherman",
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : "",
+                  "uid" : 1158276,
+                  "is_private" : 0,
+                  "first_name" : "msherms",
+                  "contact" : []
+               },
+               "checkin_id" : 560011152,
+               "venue" : {
+                  "is_verified" : true,
+                  "foursquare" : {
+                     "foursquare_url" : "http://4sq.com/1xq9rfd",
+                     "foursquare_id" : "540b4d3d498e86f0e4c8000c"
+                  },
+                  "parent_category_id" : "4d4b7105d754a06374d81259",
+                  "primary_category" : "Food",
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_2057001_28142120_bg_88.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_2057001_28142120_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_2057001_28142120_bg_64.png"
+                  },
+                  "venue_id" : 2057001,
+                  "venue_slug" : "j-bartletts-public-house",
+                  "contact" : {
+                     "twitter" : "",
+                     "venue_url" : "http://www.wholefoodsmarket.com/stores/nashua"
+                  },
+                  "categories" : {
+                     "count" : 1,
+                     "items" : [
+                        {
+                           "category_id" : "4bf58dd8d48988d155941735",
+                           "is_primary" : true,
+                           "category_name" : "Gastropub"
+                        }
+                     ]
+                  },
+                  "venue_name" : "J. Bartlett's Public House",
+                  "location" : {
+                     "lat" : 42.7795,
+                     "lng" : -71.4964,
+                     "venue_address" : "255 Amherst St",
+                     "venue_country" : "United States",
+                     "venue_state" : "NH",
+                     "venue_city" : "Nashua"
+                  }
+               },
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               }
+            },
+            {
+               "checkin_id" : 560010738,
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : {
+                  "categories" : {
+                     "items" : [
+                        {
+                           "category_name" : "Gastropub",
+                           "is_primary" : true,
+                           "category_id" : "4bf58dd8d48988d155941735"
+                        }
+                     ],
+                     "count" : 1
+                  },
+                  "location" : {
+                     "venue_city" : "Nashua",
+                     "venue_state" : "NH",
+                     "venue_country" : "United States",
+                     "lng" : -71.4964,
+                     "venue_address" : "255 Amherst St",
+                     "lat" : 42.7795
+                  },
+                  "venue_name" : "J. Bartlett's Public House",
+                  "venue_slug" : "j-bartletts-public-house",
+                  "venue_id" : 2057001,
+                  "venue_icon" : {
+                     "md" : "https://untappd.akamaized.net/venuelogos/venue_2057001_28142120_bg_88.png",
+                     "sm" : "https://untappd.akamaized.net/venuelogos/venue_2057001_28142120_bg_64.png",
+                     "lg" : "https://untappd.akamaized.net/venuelogos/venue_2057001_28142120_bg_88.png"
+                  },
+                  "foursquare" : {
+                     "foursquare_id" : "540b4d3d498e86f0e4c8000c",
+                     "foursquare_url" : "http://4sq.com/1xq9rfd"
+                  },
+                  "is_verified" : true,
+                  "primary_category" : "Food",
+                  "parent_category_id" : "4d4b7105d754a06374d81259",
+                  "contact" : {
+                     "twitter" : "",
+                     "venue_url" : "http://www.wholefoodsmarket.com/stores/nashua"
+                  }
+               },
+               "brewery" : {
+                  "brewery_active" : 1,
+                  "location" : {
+                     "lng" : -121.815,
+                     "lat" : 39.7242,
+                     "brewery_state" : "CA",
+                     "brewery_city" : "Chico"
+                  },
+                  "brewery_name" : "Sierra Nevada Brewing Co.",
+                  "contact" : {
+                     "facebook" : "http://www.facebook.com/sierranevadabeer",
+                     "instagram" : "sierranevada",
+                     "twitter" : "SierraNevada",
+                     "url" : "http://www.sierranevada.com/"
+                  },
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-1142_f241d.jpeg",
+                  "brewery_id" : 1142,
+                  "country_name" : "United States",
+                  "brewery_slug" : "sierra-nevada-brewing-co"
+               },
+               "created_at" : "Fri, 09 Feb 2018 22:35:15 +0000",
+               "checkin_comment" : "Not bad, hoppy and bitter but not too bitter",
+               "user" : {
+                  "user_name" : "msherman",
+                  "location" : "NE US",
+                  "url" : "",
+                  "last_name" : "",
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "relationship" : "friends",
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "contact" : [],
+                  "uid" : 1158276,
+                  "first_name" : "msherms",
+                  "is_private" : 0
+               },
+               "comments" : {
+                  "count" : 0,
+                  "total_count" : 0,
+                  "items" : []
+               },
+               "toasts" : {
+                  "count" : 0,
+                  "items" : [],
+                  "auth_toast" : false,
+                  "total_count" : 0
+               },
+               "badges" : {
+                  "items" : [
+                     {
+                        "created_at" : "Fri, 09 Feb 2018 22:35:15 +0000",
+                        "user_badge_id" : 303226139,
+                        "badge_image" : {
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg"
+                        },
+                        "badge_description" : "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 135 checkins with the serving style of Draft. Try 5 more for Level 28!",
+                        "badge_id" : 133280,
+                        "badge_name" : "Draft City (Level 27)"
+                     },
+                     {
+                        "badge_image" : {
+                           "lg" : "https://untappd.akamaized.net/badges/bdg_2xCore_lg.jpg",
+                           "sm" : "https://untappd.akamaized.net/badges/bdg_2xCore_sm.jpg",
+                           "md" : "https://untappd.akamaized.net/badges/bdg_2xCore_md.jpg"
+                        },
+                        "user_badge_id" : 303226141,
+                        "created_at" : "Fri, 09 Feb 2018 22:35:16 +0000",
+                        "badge_id" : 5417,
+                        "badge_name" : "2X (Level 37)",
+                        "badge_description" : "When a single isn’t enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 185 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 38!"
+                     }
+                  ],
+                  "retro_status" : false,
+                  "count" : 2
+               },
+               "source" : {
+                  "app_website" : "http://untpd.it/androidapp",
+                  "app_name" : "Untappd for Android - (V2)"
+               },
+               "rating_score" : 3.75,
+               "beer" : {
+                  "beer_abv" : 8,
+                  "auth_rating" : 0,
+                  "beer_name" : "Hop Bullet (2017)",
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+                  "has_had" : false,
+                  "bid" : 2458847,
+                  "beer_active" : 1,
+                  "beer_slug" : "sierra-nevada-brewing-co-hop-bullet-2017",
+                  "beer_style" : "IPA - Imperial / Double"
+               }
+            },
+            {
+               "beer" : {
+                  "wish_list" : false,
+                  "beer_label" : "https://untappd.akamaized.net/site/beer_logos/beer-2386397_467f4_sm.jpeg",
+                  "beer_name" : "Morph - Batch #56",
+                  "beer_abv" : 6,
+                  "auth_rating" : 0,
+                  "beer_style" : "IPA - American",
+                  "beer_slug" : "night-shift-brewing-morph-batch-56",
+                  "beer_active" : 1,
+                  "has_had" : false,
+                  "bid" : 2386397
+               },
+               "source" : {
+                  "app_name" : "Untappd for Android - (V2)",
+                  "app_website" : "http://untpd.it/androidapp"
+               },
+               "rating_score" : 3.75,
+               "toasts" : {
+                  "count" : 2,
+                  "total_count" : 2,
+                  "auth_toast" : false,
+                  "items" : [
+                     {
+                        "like_owner" : false,
+                        "created_at" : "Fri, 09 Feb 2018 18:06:32 +0000",
+                        "uid" : 1680400,
+                        "like_id" : 475603558,
+                        "user" : {
+                           "venue_details" : [],
+                           "account_type" : "user",
+                           "uid" : 1680400,
+                           "brewery_details" : [],
+                           "first_name" : "Lance",
+                           "user_name" : "Mc28adam",
+                           "location" : "",
+                           "last_name" : "M.",
+                           "bio" : "",
+                           "user_avatar" : "https://untappd.akamaized.net/profile/8795acce31275070a98ae1454908d6df_100x100.jpg"
+                        }
+                     },
+                     {
+                        "like_owner" : false,
+                        "user" : {
+                           "venue_details" : [],
+                           "uid" : 2383210,
+                           "account_type" : "user",
+                           "first_name" : "jd",
+                           "brewery_details" : [],
+                           "location" : "NH",
+                           "last_name" : "",
+                           "user_name" : "link5141",
+                           "user_avatar" : "https://untappd.akamaized.net/profile/5c990f2cb65b86f6121a3f8ed0cf8ee5_100x100.jpg",
+                           "bio" : ""
+                        },
+                        "like_id" : 475478068,
+                        "created_at" : "Fri, 09 Feb 2018 03:35:03 +0000",
+                        "uid" : 2383210
+                     }
+                  ]
+               },
+               "comments" : {
+                  "count" : 0,
+                  "items" : [],
+                  "total_count" : 0
+               },
+               "badges" : {
+                  "retro_status" : false,
+                  "count" : 0,
+                  "items" : []
+               },
+               "user" : {
+                  "bio" : "",
+                  "is_supporter" : 0,
+                  "user_avatar" : "https://untappd.akamaized.net/profile/6fb85690e5f1ed3761df4ddd6d626f64_100x100.jpeg",
+                  "relationship" : "friends",
+                  "user_name" : "msherman",
+                  "last_name" : "",
+                  "location" : "NE US",
+                  "url" : "",
+                  "first_name" : "msherms",
+                  "is_private" : 0,
+                  "uid" : 1158276,
+                  "contact" : []
+               },
+               "checkin_comment" : "",
+               "brewery" : {
+                  "brewery_slug" : "night-shift-brewing",
+                  "country_name" : "United States",
+                  "contact" : {
+                     "instagram" : "nightshiftbeer",
+                     "facebook" : "http://www.facebook.com/NightShiftBeer",
+                     "url" : "http://www.nightshiftbrewing.com",
+                     "twitter" : "nightshiftbeer"
+                  },
+                  "brewery_id" : 20827,
+                  "brewery_label" : "https://untappd.akamaized.net/site/brewery_logos/brewery-20827_647a8.jpeg",
+                  "brewery_name" : "Night Shift Brewing",
+                  "location" : {
+                     "brewery_city" : "Everett",
+                     "brewery_state" : "MA",
+                     "lat" : 42.4061,
+                     "lng" : -71.0675
+                  },
+                  "brewery_active" : 1
+               },
+               "created_at" : "Fri, 09 Feb 2018 02:22:30 +0000",
+               "media" : {
+                  "count" : 0,
+                  "items" : []
+               },
+               "venue" : [],
+               "checkin_id" : 559743415
+            }
+         ],
+         "count" : 25
+      },
+      "pagination" : {
+         "since_url" : "https://api.untappd.com/v4/user/checkins/msherman?min_id=560941346",
+         "next_url" : "https://api.untappd.com/v4/user/checkins/msherman?max_id=559743415",
+         "max_id" : 559743415
+      }
+   },
+   "meta" : {
+      "init_time" : {
+         "time" : 0,
+         "measure" : "seconds"
+      },
+      "response_time" : {
+         "measure" : "seconds",
+         "time" : 0.349
+      },
+      "code" : 200
+   }
+}

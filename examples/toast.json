@@ -1,0 +1,55 @@
+{
+   "meta" : {
+      "code" : 200,
+      "init_time" : {
+         "time" : 0,
+         "measure" : "seconds"
+      },
+      "response_time" : {
+         "measure" : "seconds",
+         "time" : 0.051
+      }
+   },
+   "notifications" : {
+      "type" : "notifications",
+      "unread_count" : {
+         "news" : 1,
+         "veunes" : 106,
+         "messages" : 0,
+         "others" : 0,
+         "comments" : 0,
+         "friends" : 0,
+         "venues" : 106,
+         "toasts" : 1
+      }
+   },
+   "response" : {
+      "like_type" : "toast",
+      "toasts" : {
+         "total_count" : 1,
+         "items" : [
+            {
+               "uid" : 18327,
+               "like_owner" : true,
+               "like_id" : 477050880,
+               "created_at" : "Mon, 12 Feb 2018 18:50:17 +0000",
+               "user" : {
+                  "venue_details" : [],
+                  "bio" : "Technologist, home brewer, geek",
+                  "location" : "Louisville, KY",
+                  "user_name" : "phlyingpenguin",
+                  "last_name" : "",
+                  "uid" : 18327,
+                  "brewery_details" : [],
+                  "user_avatar" : "https://untappd.akamaized.net/profile/b23bd66cc59d06a4d5f38339420e6b44_100x100.jpg",
+                  "first_name" : "Chris",
+                  "account_type" : "user"
+               }
+            }
+         ],
+         "auth_toast" : true,
+         "count" : 1
+      },
+      "result" : "success"
+   }
+}
