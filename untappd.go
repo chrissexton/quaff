@@ -48,6 +48,7 @@ func (u *Untappd) PullUserCheckins(userName string) ([]Checkin, error) {
 	}
 	q := url.Query()
 	q.Set("access_token", u.Token)
+	q.Set("limit", strconv.Itoa(u.Limit))
 	url.RawQuery = q.Encode()
 
 	body, err := u.query(url)

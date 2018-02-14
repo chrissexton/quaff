@@ -10,10 +10,12 @@ import (
 	quaff "github.com/chrissexton/quaff"
 )
 
-var token = flag.String("token", "", "Untappd token")
-var users = flag.String("users", "", "Comma separated users to tap")
-var useFeed = flag.Bool("useFeed", false, "Use user feed to find things")
-var whoami = flag.String("whoami", "", "Username of toaster")
+var (
+	token  = flag.String("token", "", "Untappd token")
+	users  = flag.String("users", "", "Comma separated users to tap")
+	whoami = flag.String("whoami", "", "Username of toaster")
+	limit  = flag.Int("limit", 25, "Number of checkins to examine")
+)
 
 func main() {
 	flag.Parse()
@@ -36,6 +38,7 @@ func main() {
 	}
 
 	u := quaff.New(*token)
+	u.Limit = *limit
 
 	for name, _ := range userMap {
 		checkins, err := u.PullUserCheckins(name)
